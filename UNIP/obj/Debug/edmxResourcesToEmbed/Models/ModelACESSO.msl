@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projetoModelStoreContainer" CdmEntityContainer="projetoEntities2UNIP">
+    <EntitySetMapping Name="CERTIFICADO">
+      <EntityTypeMapping TypeName="projetoModel.CERTIFICADO">
+        <MappingFragment StoreEntitySet="CERTIFICADO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+          <ScalarProperty Name="CHAVE" ColumnName="CHAVE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="COORDENADOR">
+      <EntityTypeMapping TypeName="projetoModel.COORDENADOR">
+        <MappingFragment StoreEntitySet="COORDENADOR">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FUNCIONAL" ColumnName="FUNCIONAL" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PALESTRA">
+      <EntityTypeMapping TypeName="projetoModel.PALESTRA">
+        <MappingFragment StoreEntitySet="PALESTRA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+          <ScalarProperty Name="HORA" ColumnName="HORA" />
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pessoa">
+      <EntityTypeMapping TypeName="projetoModel.pessoa">
+        <MappingFragment StoreEntitySet="pessoa">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="curso" ColumnName="curso" />
+          <ScalarProperty Name="ra" ColumnName="ra" />
+          <ScalarProperty Name="rg" ColumnName="rg" />
+          <ScalarProperty Name="senha" ColumnName="senha" />
+          <ScalarProperty Name="chave" ColumnName="chave" />
+          <ScalarProperty Name="hent" ColumnName="hent" />
+          <ScalarProperty Name="hsai" ColumnName="hsai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

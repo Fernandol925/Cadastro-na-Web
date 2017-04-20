@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ACESSOdoisModelStoreContainer" CdmEntityContainer="ACESSOdoisEntities">
+    <EntitySetMapping Name="PESSOA">
+      <EntityTypeMapping TypeName="ACESSOdoisModel.PESSOA">
+        <MappingFragment StoreEntitySet="PESSOA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="CURSO" ColumnName="CURSO" />
+          <ScalarProperty Name="RA" ColumnName="RA" />
+          <ScalarProperty Name="RG" ColumnName="RG" />
+          <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+          <ScalarProperty Name="CHAVE" ColumnName="CHAVE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,217 @@
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\ApplicationInsights.config
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\csc.exe
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\vbc.exe
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\UNIP.dll.config
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\UNIP.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\UNIP.pdb
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.Web.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.Web.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\obj\Debug\UNIP.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\obj\Debug\UNIP.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\obj\Debug\UNIP.pdb
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\EntityFramework.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\EntityFramework.xml
+C:\Users\Fernando Silva\Desktop\UNIP\UNIP\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\ApplicationInsights.config
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\csc.exe
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\vbc.exe
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\UNIP.dll.config
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\UNIP.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\UNIP.pdb
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\EntityFramework.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.Web.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Newtonsoft.Json.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\System.Net.Http.Formatting.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\System.Web.Http.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\System.Web.Http.WebHost.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\EntityFramework.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.Web.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\Newtonsoft.Json.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\System.Net.Http.Formatting.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\System.Web.Http.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\bin\System.Web.Http.WebHost.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\obj\Debug\UNIP.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\obj\Debug\UNIP.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3)\UNIP\obj\Debug\UNIP.pdb
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\ApplicationInsights.config
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\csc.exe
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\vbc.exe
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\UNIP.dll.config
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\UNIP.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\UNIP.pdb
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.Web.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Newtonsoft.Json.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Net.Http.Formatting.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.WebHost.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.Web.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Newtonsoft.Json.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Net.Http.Formatting.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.WebHost.xml
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\obj\Debug\UNIP.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\obj\Debug\UNIP.dll
+C:\Users\Fernando Silva\Desktop\UNIP - Copia (3) - Copia\UNIP\obj\Debug\UNIP.pdb
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\ApplicationInsights.config
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\csc.exe
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\vbc.exe
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\VBCSCompiler.exe
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\UNIP.dll.config
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\UNIP.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\UNIP.pdb
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.SqlServer.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.Web.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Newtonsoft.Json.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Net.Http.Formatting.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.WebHost.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\EntityFramework.SqlServer.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.Web.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\Newtonsoft.Json.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Net.Http.Formatting.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\bin\System.Web.Http.WebHost.xml
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\obj\Debug\UNIP.csprojResolveAssemblyReference.cache
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\obj\Debug\UNIP.dll
+C:\Users\joaac\Desktop\UNIP - Copia (3) - Copia\UNIP\obj\Debug\UNIP.pdb
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\ApplicationInsights.config
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\csc.exe
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\vbc.exe
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\UNIP.dll.config
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\UNIP.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\UNIP.pdb
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\EntityFramework.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.Web.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Newtonsoft.Json.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\System.Net.Http.Formatting.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\System.Web.Http.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\System.Web.Http.WebHost.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\EntityFramework.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.Web.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\Newtonsoft.Json.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\System.Net.Http.Formatting.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\System.Web.Http.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\bin\System.Web.Http.WebHost.xml
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\obj\Debug\UNIP.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\obj\Debug\UNIP.dll
+C:\Users\Fernando Silva\Documents\PIM ADS 4\Cadastro na Web\UNIP\obj\Debug\UNIP.pdb

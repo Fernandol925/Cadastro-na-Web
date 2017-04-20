@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PESSOAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ALUNO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NOME" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="CURSO" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="RA" Type="char" MaxLength="7" Nullable="false" />
+    <Property Name="SENHA" Type="char" MaxLength="8" />
+    <Property Name="CHAVE" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="COORDENADOR">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FUNCIONAL" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="NOME" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="SENHA" Type="char" MaxLength="8" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PALESTRA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NOME" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="TEMA" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="HORA" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="DATA" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VISITANTE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NOME" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="RG" Type="char" MaxLength="9" Nullable="false" />
+    <Property Name="SENHA" Type="char" MaxLength="8" Nullable="false" />
+    <Property Name="CHAVE" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="PESSOAModelStoreContainer">
+    <EntitySet Name="ALUNO" EntityType="Self.ALUNO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="COORDENADOR" EntityType="Self.COORDENADOR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PALESTRA" EntityType="Self.PALESTRA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VISITANTE" EntityType="Self.VISITANTE" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

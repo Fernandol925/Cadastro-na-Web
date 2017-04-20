@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ACESSOModel1StoreContainer" CdmEntityContainer="ACESSOEntities4">
+    <EntitySetMapping Name="CERTIFICADO">
+      <EntityTypeMapping TypeName="ACESSOModel1.CERTIFICADO">
+        <MappingFragment StoreEntitySet="CERTIFICADO">
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+          <ScalarProperty Name="CHAVE" ColumnName="CHAVE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

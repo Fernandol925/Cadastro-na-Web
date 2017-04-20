@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PIMModelStoreContainer" CdmEntityContainer="PIMEntities">
+    <EntitySetMapping Name="CERTIFICADO">
+      <EntityTypeMapping TypeName="PIMModel.CERTIFICADO">
+        <MappingFragment StoreEntitySet="CERTIFICADO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+          <ScalarProperty Name="CHAVE" ColumnName="CHAVE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="COORDENADOR">
+      <EntityTypeMapping TypeName="PIMModel.COORDENADOR">
+        <MappingFragment StoreEntitySet="COORDENADOR">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FUNCIONAL" ColumnName="FUNCIONAL" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PALESTRA">
+      <EntityTypeMapping TypeName="PIMModel.PALESTRA">
+        <MappingFragment StoreEntitySet="PALESTRA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+          <ScalarProperty Name="HORA" ColumnName="HORA" />
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PESSOA">
+      <EntityTypeMapping TypeName="PIMModel.PESSOA">
+        <MappingFragment StoreEntitySet="PESSOA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="CURSO" ColumnName="CURSO" />
+          <ScalarProperty Name="RA" ColumnName="RA" />
+          <ScalarProperty Name="RG" ColumnName="RG" />
+          <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+          <ScalarProperty Name="CHAVE" ColumnName="CHAVE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

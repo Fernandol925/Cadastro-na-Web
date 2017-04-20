@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="projetoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CERTIFICADO">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NOME" Type="varchar" MaxLength="40" />
+          <Property Name="TEMA" Type="varchar" MaxLength="40" />
+          <Property Name="DATA" Type="varchar" MaxLength="30" />
+          <Property Name="CHAVE" Type="char" MaxLength="5" />
+        </EntityType>
+        <EntityType Name="COORDENADOR">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FUNCIONAL" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="NOME" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="EMAIL" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="SENHA" Type="char" MaxLength="8" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PALESTRA">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NOME" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="EMAIL" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="TEMA" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="HORA" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="DATA" Type="varchar" MaxLength="40" Nullable="false" />
+        </EntityType>
+        <EntityType Name="pessoa">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nome" Type="varchar" MaxLength="40" />
+          <Property Name="email" Type="varchar" MaxLength="40" />
+          <Property Name="curso" Type="varchar" MaxLength="40" />
+          <Property Name="ra" Type="char" MaxLength="7" />
+          <Property Name="rg" Type="char" MaxLength="9" />
+          <Property Name="senha" Type="char" MaxLength="8" />
+          <Property Name="chave" Type="char" MaxLength="5" />
+          <Property Name="hent" Type="datetime" />
+          <Property Name="hsai" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="projetoModelStoreContainer">
+          <EntitySet Name="CERTIFICADO" EntityType="Self.CERTIFICADO" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="COORDENADOR" EntityType="Self.COORDENADOR" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PALESTRA" EntityType="Self.PALESTRA" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="pessoa" EntityType="Self.pessoa" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="projetoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CERTIFICADO">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NOME" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="TEMA" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="DATA" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="CHAVE" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityType Name="COORDENADOR">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FUNCIONAL" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="NOME" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="EMAIL" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="SENHA" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PALESTRA">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NOME" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="EMAIL" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="TEMA" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="HORA" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DATA" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="pessoa">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nome" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="email" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="curso" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="ra" Type="String" MaxLength="7" FixedLength="true" Unicode="false" />
+          <Property Name="rg" Type="String" MaxLength="9" FixedLength="true" Unicode="false" />
+          <Property Name="senha" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+          <Property Name="chave" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+          <Property Name="hent" Type="DateTime" Precision="3" />
+          <Property Name="hsai" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="projetoEntities2UNIP" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CERTIFICADO" EntityType="Self.CERTIFICADO" />
+          <EntitySet Name="COORDENADOR" EntityType="Self.COORDENADOR" />
+          <EntitySet Name="PALESTRA" EntityType="Self.PALESTRA" />
+          <EntitySet Name="pessoa" EntityType="Self.pessoa" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="projetoModelStoreContainer" CdmEntityContainer="projetoEntities2UNIP">
+          <EntitySetMapping Name="CERTIFICADO">
+            <EntityTypeMapping TypeName="projetoModel.CERTIFICADO">
+              <MappingFragment StoreEntitySet="CERTIFICADO">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="NOME" ColumnName="NOME" />
+                <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+                <ScalarProperty Name="DATA" ColumnName="DATA" />
+                <ScalarProperty Name="CHAVE" ColumnName="CHAVE" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="COORDENADOR">
+            <EntityTypeMapping TypeName="projetoModel.COORDENADOR">
+              <MappingFragment StoreEntitySet="COORDENADOR">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="FUNCIONAL" ColumnName="FUNCIONAL" />
+                <ScalarProperty Name="NOME" ColumnName="NOME" />
+                <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+                <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PALESTRA">
+            <EntityTypeMapping TypeName="projetoModel.PALESTRA">
+              <MappingFragment StoreEntitySet="PALESTRA">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="NOME" ColumnName="NOME" />
+                <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+                <ScalarProperty Name="TEMA" ColumnName="TEMA" />
+                <ScalarProperty Name="HORA" ColumnName="HORA" />
+                <ScalarProperty Name="DATA" ColumnName="DATA" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="pessoa">
+            <EntityTypeMapping TypeName="projetoModel.pessoa">
+              <MappingFragment StoreEntitySet="pessoa">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="nome" ColumnName="nome" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="curso" ColumnName="curso" />
+                <ScalarProperty Name="ra" ColumnName="ra" />
+                <ScalarProperty Name="rg" ColumnName="rg" />
+                <ScalarProperty Name="senha" ColumnName="senha" />
+                <ScalarProperty Name="chave" ColumnName="chave" />
+                <ScalarProperty Name="hent" ColumnName="hent" />
+                <ScalarProperty Name="hsai" ColumnName="hsai" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
